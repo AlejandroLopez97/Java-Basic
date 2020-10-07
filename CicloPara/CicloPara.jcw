@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>CicloPara</label>
+	</settings>
+	<users>
+		<user>
+			<path>CicloPara.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>CicloPara.jcp</path>
+		</project>
+		<project>
+			<path>..\CicloParaconAcumYCont\CicloParaconAcumYCont.jcp</path>
+		</project>
+		<project>
+			<path>..\NumerosParesEnCiclo\NumerosParesEnCiclo.jcp</path>
+		</project>
+		<project>
+			<path>..\NumerosenPara\NumerosenPara.jcp</path>
+		</project>
+		<project>
+			<path>..\Variosnombres\Variosnombres.jcp</path>
+		</project>
+	</projects>
+</workspace>
