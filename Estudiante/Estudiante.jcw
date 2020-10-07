@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Estudiante</label>
+	</settings>
+	<users>
+		<user>
+			<path>Estudiante.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Estudiante.jcp</path>
+		</project>
+	</projects>
+</workspace>
